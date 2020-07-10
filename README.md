@@ -19,7 +19,6 @@ the number of items in the cart icon update dynamically.
 4. The user can confirm order and pay using th Checkout button.
 5. If the user is logged in, he will not be asked to fill in his name and email.
 6. The user will fill in the shipping details and click continue to payment.
-7. On clicking the continue button, he will be able to pay using PayPal Options.
 8. A guest user can also order items through cookies.
 
 UPCOMING FEATURES:
