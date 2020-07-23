@@ -1,5 +1,5 @@
-# ecommerce
-An ecommerce website with django.
+# An ecommerce website with django.
+
 
 FEATURES:
 
@@ -16,14 +16,9 @@ the number of items in the cart icon update dynamically.
 
 ![alt text](https://i.imgur.com/atwrJXQ.png)
 
-4. The user can confirm order and pay using th Checkout button.
+4. The user can confirm order using the Checkout button.
 5. If the user is logged in, he will not be asked to fill in his name and email.
 6. The user will fill in the shipping details and click continue to payment.
 8. A guest user can also order items through cookies.
-
-UPCOMING FEATURES:
-1. A working Payment API.
-2. Improving the front end.
-3. Dividing the items into categories and including filter options. 
 
 Reference- Dennis Ivy Tutorial
