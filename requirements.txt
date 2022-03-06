@@ -35,8 +35,7 @@ clyent
 cmake
 colorama 
 conda
-conda-build
-conda-package-handling 
+conda-build 
 conda-verify
 contextlib2
 cryptography 
