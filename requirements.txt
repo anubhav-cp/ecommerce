@@ -30,7 +30,7 @@ cffi
 chardet 
 click 
 cloudpickle
-clyent==1.2.2
+clyent==1.2.1
 cmake==3.18.4.post1
 colorama 
 conda==4.9.2
