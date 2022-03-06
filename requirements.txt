@@ -33,7 +33,7 @@ cloudpickle
 clyent==1.2.1
 cmake==3.18.4.post1
 colorama 
-conda==4.9.2
+conda==4.3.1
 conda-build==3.18.11
 conda-package-handling 
 conda-verify==3.4.2
